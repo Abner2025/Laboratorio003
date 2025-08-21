@@ -1,0 +1,12 @@
+
+.galeria{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    background-color: #961d3d;
+}

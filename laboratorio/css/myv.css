@@ -1,0 +1,19 @@
+.man{
+    width: 400px;
+    height: 400px;
+}
+p{
+    background-color: #961d3d;
+    padding: 15px 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    padding: 15px 20px;
+    background-color: #568f72;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    padding: 15px 20px;
+    background-color: #F57C00;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
